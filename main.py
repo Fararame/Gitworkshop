@@ -1,2 +1,4 @@
-print("Simple Calculator")
+from substract import subtract
 
+print("Simple Calculator")
+print(subtract(5,1))
